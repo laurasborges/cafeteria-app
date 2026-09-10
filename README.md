@@ -1,4 +1,5 @@
 Para iniciar o projeto:
+<br>
 ''android studio
 - close project
 - more actions
